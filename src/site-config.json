@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Total Concrete Services, INC",
+    "phone": "+16618094179",
+    "category": "concrete contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Concrete Specialists",
+      "heroSubline": "Durable concrete solutions built to last. Serving Bakersfield and Kern County for over a decade.",
+      "aboutTitle": "Built on Solid Ground",
+      "aboutText": [
+        "Total Concrete Services, INC started with a simple mission: to provide reliable, high-quality concrete work to the Bakersfield community. Founded by lifelong Kern County residents, we understand the unique challenges our climate and soil present.",
+        "We believe in doing the job right the first time. Our experienced team combines time-tested techniques with modern equipment to ensure every project meets our rigorous standards. We prioritize clear communication, meticulous planning, and unwavering dedication to customer satisfaction.",
+        "We're proud to be a part of the Bakersfield community. We actively support local initiatives and strive to minimize our environmental impact. Our commitment extends beyond concrete; we're invested in building a stronger, more sustainable future for Kern County."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Bakersfield's soil and climate, ensuring lasting results."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Experienced professionals dedicated to exceeding expectations."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion and clear communication every step of the way."
+        },
+        {
+          "title": "Comprehensive Solutions",
+          "description": "From foundations to decorative concrete, we handle it all."
+        }
+      ],
+      "ctaHeadline": "Get a Free Concrete Estimate",
+      "ctaSubline": "Let's discuss your project needs and provide a tailored solution."
+    },
+    "services": [
+      {
+        "slug": "concrete-foundations",
+        "name": "Concrete Foundations",
+        "shortDescription": "Solid foundations for residential and commercial structures.",
+        "description": "A strong foundation is the bedrock of any successful construction project. At Total Concrete Services, INC, we specialize in pouring durable and reliable concrete foundations for homes, businesses, and industrial facilities throughout Bakersfield. We understand the unique soil conditions in Kern County and implement proven techniques to ensure long-lasting stability. Our team meticulously prepares the site, precisely forms the concrete, and uses high-quality mixes designed to withstand the extreme summer heat and occasional seismic activity. Whether it's a new construction project in Seven Oaks or a foundation repair in Oleander-Sunset, we have the expertise to deliver exceptional results. We handle everything from initial excavation and rebar installation to the final pour and curing process, adhering to strict building codes and safety standards. Trust us to lay the groundwork for your project's success.",
+        "process": [
+          "Step 1: Site Evaluation & Soil Testing",
+          "Step 2: Excavation & Formwork",
+          "Step 3: Rebar Installation",
+          "Step 4: Concrete Pour & Curing"
+        ],
+        "benefits": [
+          "Durable and long-lasting foundations",
+          "Protection against soil movement and seismic activity",
+          "Compliance with all building codes",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to pour a concrete foundation?",
+            "answer": "The timeline depends on the size and complexity of the project. Generally, it takes 1-3 days for smaller residential foundations and longer for larger commercial structures. We'll provide a detailed schedule during the initial consultation."
+          },
+          {
+            "question": "What type of concrete mix do you use for foundations?",
+            "answer": "We use high-strength concrete mixes specifically designed for foundation applications. These mixes are resistant to cracking and provide superior load-bearing capacity. We adjust the mix based on the specific soil conditions and project requirements."
+          },
+          {
+            "question": "Do you offer foundation repair services?",
+            "answer": "Yes, we offer comprehensive foundation repair services, including crack repair, leveling, and underpinning. We'll assess the damage and recommend the most effective solution to restore the structural integrity of your foundation."
+          }
+        ]
+      },
+      {
+        "slug": "driveways-and-patios",
+        "name": "Driveways & Patios",
+        "shortDescription": "Enhance your property with beautiful and durable concrete driveways and patios.",
+        "description": "Upgrade your outdoor living space with a custom concrete driveway or patio from Total Concrete Services, INC. We specialize in creating durable, aesthetically pleasing surfaces that withstand Bakersfield's harsh climate. From classic broom-finished driveways to decorative stamped concrete patios, we offer a wide range of design options to complement your home's architecture. We use high-quality concrete mixes and proven construction techniques to ensure long-lasting performance. Whether you're looking to add curb appeal to your Riviera/Westchester home or create a relaxing outdoor oasis in your backyard, we can bring your vision to life. We handle every aspect of the project, from site preparation and grading to concrete pouring and finishing. Our team is committed to providing exceptional craftsmanship and outstanding customer service. Let us transform your driveway or patio into a functional and beautiful extension of your home.",
+        "process": [
+          "Step 1: Design Consultation & Site Preparation",
+          "Step 2: Grading & Base Installation",
+          "Step 3: Concrete Pouring & Finishing",
+          "Step 4: Curing & Sealing"
+        ],
+        "benefits": [
+          "Increased curb appeal and property value",
+          "Durable and low-maintenance surfaces",
+          "Custom designs to match your style",
+          "Enhanced outdoor living space"
+        ],
+        "faq": [
+          {
+            "question": "How much does a concrete driveway or patio cost?",
+            "answer": "The cost varies depending on the size, design, and complexity of the project. We offer free estimates and will provide a detailed breakdown of all costs involved."
+          },
+          {
+            "question": "What types of decorative concrete finishes do you offer?",
+            "answer": "We offer a variety of decorative finishes, including stamped concrete, exposed aggregate, and colored concrete. We can help you choose the perfect finish to achieve your desired look."
+          },
+          {
+            "question": "How long will my new concrete driveway or patio last?",
+            "answer": "With proper installation and maintenance, a concrete driveway or patio can last for 25 years or more. We use high-quality materials and proven techniques to ensure long-lasting performance."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-slabs",
+        "name": "Concrete Slabs",
+        "shortDescription": "Durable and level concrete slabs for sheds, garages, and more.",
+        "description": "Need a solid foundation for your shed, garage, or workshop? Total Concrete Services, INC specializes in pouring level and durable concrete slabs throughout Bakersfield. We understand the importance of a properly prepared base to prevent cracking and settling. Our team meticulously grades the site, compacts the soil, and installs a reinforced concrete slab that will withstand heavy loads and extreme temperatures. Whether you're building a new storage shed in Oleander-Sunset or adding a garage to your Seven Oaks home, we can provide a concrete slab that meets your specific needs. We use high-quality concrete mixes and precise finishing techniques to ensure a smooth, level surface. Our experienced team is committed to providing exceptional craftsmanship and outstanding customer service. Let us provide the solid foundation you need for your next project.",
+        "process": [
+          "Step 1: Site Preparation & Grading",
+          "Step 2: Soil Compaction",
+          "Step 3: Formwork & Rebar Installation",
+          "Step 4: Concrete Pour & Finishing"
+        ],
+        "benefits": [
+          "Level and stable foundation",
+          "Protection against soil movement and settling",
+          "Increased property value",
+          "Durable and long-lasting surface"
+        ],
+        "faq": [
+          {
+            "question": "How thick should a concrete slab be?",
+            "answer": "The required thickness depends on the intended use of the slab. For sheds and light-duty applications, a 4-inch slab is typically sufficient. For garages and heavier loads, a 6-inch or thicker slab may be required."
+          },
+          {
+            "question": "Do you offer concrete slab repair services?",
+            "answer": "Yes, we offer concrete slab repair services, including crack repair, leveling, and patching. We'll assess the damage and recommend the most effective solution to restore the slab's integrity."
+          },
+          {
+            "question": "How long does it take to pour a concrete slab?",
+            "answer": "The timeline depends on the size and complexity of the project. Generally, it takes 1-2 days for smaller slabs and longer for larger projects. We'll provide a detailed schedule during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-repairs",
+        "name": "Concrete Repairs",
+        "shortDescription": "Expert concrete repair services to restore the integrity of your surfaces.",
+        "description": "Cracked, chipped, or damaged concrete can be unsightly and compromise the structural integrity of your property. Total Concrete Services, INC provides expert concrete repair services throughout Bakersfield to restore your surfaces to their former glory. We specialize in repairing driveways, patios, sidewalks, foundations, and more. Our team uses high-quality patching materials and proven techniques to ensure a durable and long-lasting repair. Whether you have a minor crack in your driveway in Riviera/Westchester or a major structural issue in your foundation, we can provide a cost-effective solution. We understand the importance of addressing concrete repairs promptly to prevent further damage. Our experienced team is committed to providing exceptional craftsmanship and outstanding customer service. Let us help you protect your investment with our reliable concrete repair services.",
+        "process": [
+          "Step 1: Damage Assessment",
+          "Step 2: Surface Preparation",
+          "Step 3: Patching & Repair",
+          "Step 4: Sealing & Finishing"
+        ],
+        "benefits": [
+          "Restored structural integrity",
+          "Improved aesthetics",
+          "Increased property value",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my concrete needs repair?",
+            "answer": "Common signs of concrete damage include cracks, chips, spalling, and settling. If you notice any of these issues, it's important to have your concrete inspected by a professional."
+          },
+          {
+            "question": "How much does concrete repair cost?",
+            "answer": "The cost of concrete repair depends on the extent of the damage and the type of repair required. We offer free estimates and will provide a detailed breakdown of all costs involved."
+          },
+          {
+            "question": "How long will the repair last?",
+            "answer": "With proper installation and maintenance, our concrete repairs can last for many years. We use high-quality materials and proven techniques to ensure long-lasting performance."
+          }
+        ]
+      },
+      {
+        "slug": "stamped-concrete",
+        "name": "Stamped Concrete",
+        "shortDescription": "Add elegance and style with decorative stamped concrete.",
+        "description": "Transform your ordinary concrete surfaces into stunning works of art with stamped concrete from Total Concrete Services, INC. We offer a wide variety of patterns and colors to create unique and eye-catching driveways, patios, walkways, and more. Stamped concrete is a cost-effective way to achieve the look of natural stone, brick, or tile without the high cost and maintenance. Our experienced team meticulously prepares the site, pours the concrete, and applies the chosen pattern using specialized stamps. We then add color hardeners and sealers to enhance the beauty and durability of the surface. Whether you're looking to add curb appeal to your home in Seven Oaks or create a luxurious outdoor living space in Riviera/Westchester, stamped concrete is an excellent choice. We are committed to providing exceptional craftsmanship and outstanding customer service. Let us help you create a stunning and durable stamped concrete surface that will enhance your property for years to come.",
+        "process": [
+          "Step 1: Design Consultation & Site Preparation",
+          "Step 2: Concrete Pouring & Coloring",
+          "Step 3: Stamping & Texturing",
+          "Step 4: Sealing & Curing"
+        ],
+        "benefits": [
+          "Enhanced aesthetics and curb appeal",
+          "Cost-effective alternative to natural stone",
+          "Durable and low-maintenance surface",
+          "Wide variety of patterns and colors"
+        ],
+        "faq": [
+          {
+            "question": "What types of stamped concrete patterns do you offer?",
+            "answer": "We offer a wide variety of patterns, including brick, stone, slate, and tile. We can also create custom patterns to match your specific needs and preferences."
+          },
+          {
+            "question": "How much does stamped concrete cost?",
+            "answer": "The cost of stamped concrete depends on the size of the project, the chosen pattern, and the complexity of the design. We offer free estimates and will provide a detailed breakdown of all costs involved."
+          },
+          {
+            "question": "How long will stamped concrete last?",
+            "answer": "With proper installation and maintenance, stamped concrete can last for 25 years or more. We use high-quality materials and proven techniques to ensure long-lasting performance."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-demolition",
+        "name": "Concrete Demolition",
+        "shortDescription": "Safe and efficient concrete demolition and removal services.",
+        "description": "Need to remove old, damaged, or unwanted concrete? Total Concrete Services, INC provides safe and efficient concrete demolition and removal services throughout Bakersfield. We have the equipment and expertise to handle any size project, from small residential demolition to large commercial tear-outs. Our team carefully assesses the site, implements safety protocols, and uses specialized equipment to break up and remove the concrete. We then haul away the debris and dispose of it responsibly. Whether you're removing an old driveway in Oleander-Sunset or demolishing a concrete structure in Seven Oaks, we can provide a cost-effective and reliable solution. We are committed to providing exceptional service and minimizing disruption to your property. Let us handle the dirty work so you can focus on your next project.",
+        "process": [
+          "Step 1: Site Assessment & Safety Planning",
+          "Step 2: Concrete Demolition",
+          "Step 3: Debris Removal",
+          "Step 4: Site Cleanup"
+        ],
+        "benefits": [
+          "Safe and efficient demolition",
+          "Responsible debris disposal",
+          "Minimal disruption to your property",
+          "Cost-effective solutions"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for concrete demolition?",
+            "answer": "In some cases, a permit may be required for concrete demolition. We can help you determine if a permit is needed and assist with the application process."
+          },
+          {
+            "question": "How much does concrete demolition cost?",
+            "answer": "The cost of concrete demolition depends on the size and complexity of the project. We offer free estimates and will provide a detailed breakdown of all costs involved."
+          },
+          {
+            "question": "How long does concrete demolition take?",
+            "answer": "The timeline depends on the size and complexity of the project. We'll provide a detailed schedule during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC is proud to offer comprehensive concrete services to the residents and businesses of Bakersfield, CA. From durable driveways and patios to sturdy foundations and decorative concrete work, we have the expertise and equipment to handle any project, big or small. We understand the unique needs of Bakersfield properties and are committed to delivering exceptional results that stand the test of time.",
+        "localContext": "Bakersfield, located in the southern San Joaquin Valley, is a major agricultural and energy production hub. Total Concrete Services, INC understands the specific requirements of concrete work in this region, adapting our techniques and materials to suit the local climate and soil conditions.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC extends its expert concrete services to Oildale, CA. We provide a full spectrum of concrete solutions, including repairs, replacements, and new installations. Our focus is on delivering quality craftsmanship and reliable service to meet the diverse needs of Oildale's residential and commercial properties. We are dedicated to ensuring customer satisfaction and exceeding expectations on every project.",
+        "localContext": "Oildale, a community with a rich history tied to the oil industry, requires concrete solutions that can withstand the test of time. Total Concrete Services, INC understands the unique challenges of this area and provides durable and long-lasting concrete services.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Delano",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Delano",
+        "slug": "delano-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC is pleased to serve the community of Delano, CA, with top-notch concrete services. We offer a wide range of solutions, from foundation work to decorative concrete, tailored to meet the specific needs of Delano homes and businesses. Our commitment to quality and customer satisfaction makes us the trusted choice for all your concrete needs in the Delano area.",
+        "localContext": "As a prominent agricultural center, Delano demands concrete solutions that are both durable and functional. Total Concrete Services, INC is well-versed in the specific needs of Delano's agricultural and residential properties, providing concrete services that are built to last.",
+        "nearbyAreas": [
+          "Wasco",
+          "McFarland",
+          "Earlimart"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC is dedicated to providing exceptional concrete services to the residents and businesses of Wasco, CA. Our services include concrete pouring, repairs, and decorative finishes, all designed to enhance the beauty and functionality of your property. We pride ourselves on our attention to detail and commitment to delivering superior results.",
+        "localContext": "Wasco, known for its rose cultivation and agricultural heritage, requires concrete services that blend functionality with aesthetic appeal. Total Concrete Services, INC provides customized concrete solutions that complement the unique character of Wasco's homes and businesses.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "Buttonwillow"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC proudly offers reliable and professional concrete services to Shafter, CA. We understand the importance of quality concrete for both residential and commercial properties. Our team is experienced in all aspects of concrete work, from foundations to driveways, ensuring that every project is completed to the highest standards.",
+        "localContext": "Shafter's growing community requires dependable concrete solutions. Total Concrete Services, INC is committed to providing durable and long-lasting concrete services to meet the needs of Shafter's expanding residential and commercial sectors.",
+        "nearbyAreas": [
+          "Wasco",
+          "Bakersfield",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC extends its service area to Tehachapi, CA, offering a wide range of concrete solutions to meet the needs of this unique mountain community. Whether you need a new driveway, patio, or foundation, our team has the skills and experience to deliver exceptional results. We are committed to providing reliable, professional service and exceeding your expectations.",
+        "localContext": "Tehachapi's mountain climate presents unique challenges for concrete work. Total Concrete Services, INC understands these challenges and uses specialized techniques and materials to ensure that our concrete projects are durable and long-lasting in this environment.",
+        "nearbyAreas": [
+          "California City",
+          "Mojave",
+          "Rosamond"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC is ready to serve the Arvin, CA community with high-quality concrete solutions. We offer a full suite of services, including concrete pouring, repairs, and decorative finishes, tailored to meet the specific needs of Arvin homes and businesses. Our focus is on delivering superior craftsmanship and reliable service that you can count on.",
+        "localContext": "Arvin, a vibrant agricultural community, requires concrete services that are both functional and aesthetically pleasing. Total Concrete Services, INC provides customized concrete solutions that complement the unique character of Arvin's homes and businesses.",
+        "nearbyAreas": [
+          "Lamont",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC is proud to offer its expert concrete services to the community of Lamont, CA. We provide a full spectrum of concrete solutions, including repairs, replacements, and new installations. Our focus is on delivering quality craftsmanship and reliable service to meet the diverse needs of Lamont's residential and commercial properties.",
+        "localContext": "Lamont, a growing community, needs dependable concrete solutions. Total Concrete Services, INC is dedicated to providing durable and long-lasting concrete services to meet the needs of Lamont's expanding residential and commercial sectors.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "California City",
+        "slug": "california-city-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC is dedicated to providing top-notch concrete services to the residents and businesses of California City, CA. We offer a wide range of solutions, from foundation work to decorative concrete, tailored to meet the specific needs of California City homes and businesses. Our commitment to quality and customer satisfaction makes us the trusted choice for all your concrete needs in the California City area.",
+        "localContext": "California City, with its unique desert landscape, requires concrete solutions that are both durable and aesthetically pleasing. Total Concrete Services, INC is well-versed in the specific needs of California City's residential and commercial properties, providing concrete services that are built to last.",
+        "nearbyAreas": [
+          "Tehachapi",
+          "Mojave",
+          "Rosamond"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Total Concrete Services, INC is pleased to extend our quality concrete services to McFarland, CA. We offer a comprehensive range of solutions, including concrete pouring, repairs, and custom designs, all tailored to meet the specific needs of homes and businesses in McFarland. Our team is committed to delivering exceptional workmanship and ensuring your complete satisfaction.",
+        "localContext": "McFarland, a vibrant community in the heart of California's agricultural region, requires concrete solutions that are both durable and functional. Total Concrete Services, INC understands the unique needs of this area and provides services that stand the test of time.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Shafter"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Concrete Driveway",
+        "text": "Total Concrete Services did an amazing job on our new driveway! They were professional, efficient, and the quality of the work is outstanding. Our old asphalt driveway was cracked and crumbling, and they completely transformed our curb appeal. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Concrete Slab",
+        "text": "We hired Total Concrete to pour a slab for our new shed. They showed up on time, prepped the area well, and the slab is perfectly level. There was a small delay due to weather, but they communicated clearly throughout the process. Would use them again.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica K.",
+        "rating": 5,
+        "service": "Stamped Concrete Patio",
+        "text": "Our new stamped concrete patio is absolutely beautiful! The crew at Total Concrete Services helped us choose the perfect pattern and color to match our backyard. The attention to detail was impressive, and they cleaned up everything thoroughly when they were finished. We love spending time on our new patio!",
+        "date": "2024-08-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Concrete Foundation",
+        "text": "Total Concrete Services poured the foundation for our new home, and we couldn't be happier with the results. They were very knowledgeable and answered all of our questions. The foundation is solid and level, and we have complete confidence in their work. Great local company!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Linda P.",
+        "rating": 4,
+        "service": "Concrete Repair",
+        "text": "We had some cracks in our driveway, and Total Concrete Services did a great job repairing them. The repairs are seamless, and they sealed the driveway to prevent further damage. The price was reasonable, and the service was excellent.",
+        "date": "2024-06-22"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Concrete Demolition",
+        "text": "Total Concrete Services removed an old concrete patio for us. They were quick, efficient, and left the area clean and tidy. Very professional and easy to work with.",
+        "date": "2024-09-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Total Concrete Services, INC",
+        "description": "Bakersfield concrete contractor. Foundations, driveways, patios, repairs. Reliable service. Free quotes."
+      },
+      "about": {
+        "title": "About Us | Total Concrete Services",
+        "description": "Learn about Total Concrete Services, INC in Bakersfield, CA. Our values, experience, and commitment to quality concrete work."
+      },
+      "services": {
+        "title": "Concrete Services | Bakersfield, CA",
+        "description": "Comprehensive concrete services in Bakersfield: foundations, driveways, patios, stamped concrete. Expert solutions."
+      },
+      "contact": {
+        "title": "Contact Us | Total Concrete Services",
+        "description": "Contact Total Concrete Services, INC for concrete services in Bakersfield. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Reviews | Total Concrete Services",
+        "description": "Read reviews for Total Concrete Services, INC. See what our Bakersfield customers say about our concrete work."
+      },
+      "service-areas": {
+        "title": "Service Areas | Total Concrete Services",
+        "description": "Total Concrete Services, INC provides concrete services in Bakersfield and surrounding areas. Check our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "concrete-foundations": "/images/service-concrete-foundations.webp",
+      "driveways-and-patios": "/images/service-driveways-and-patios.webp",
+      "concrete-slabs": "/images/service-concrete-slabs.webp",
+      "concrete-repairs": "/images/service-concrete-repairs.webp",
+      "stamped-concrete": "/images/service-stamped-concrete.webp",
+      "concrete-demolition": "/images/service-concrete-demolition.webp"
+    },
+    "servicesResponsive": {
+      "concrete-foundations": {
+        "src": "/images/service-concrete-foundations.webp",
+        "srcset": "/images/service-concrete-foundations-400w.webp 400w, /images/service-concrete-foundations-800w.webp 800w, /images/service-concrete-foundations-1200w.webp 1200w, /images/service-concrete-foundations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveways-and-patios": {
+        "src": "/images/service-driveways-and-patios.webp",
+        "srcset": "/images/service-driveways-and-patios-400w.webp 400w, /images/service-driveways-and-patios-800w.webp 800w, /images/service-driveways-and-patios-1200w.webp 1200w, /images/service-driveways-and-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-slabs": {
+        "src": "/images/service-concrete-slabs.webp",
+        "srcset": "/images/service-concrete-slabs-400w.webp 400w, /images/service-concrete-slabs-800w.webp 800w, /images/service-concrete-slabs-1200w.webp 1200w, /images/service-concrete-slabs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-repairs": {
+        "src": "/images/service-concrete-repairs.webp",
+        "srcset": "/images/service-concrete-repairs-400w.webp 400w, /images/service-concrete-repairs-800w.webp 800w, /images/service-concrete-repairs-1200w.webp 1200w, /images/service-concrete-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stamped-concrete": {
+        "src": "/images/service-stamped-concrete.webp",
+        "srcset": "/images/service-stamped-concrete-400w.webp 400w, /images/service-stamped-concrete-800w.webp 800w, /images/service-stamped-concrete-1200w.webp 1200w, /images/service-stamped-concrete.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-demolition": {
+        "src": "/images/service-concrete-demolition.webp",
+        "srcset": "/images/service-concrete-demolition-400w.webp 400w, /images/service-concrete-demolition-800w.webp 800w, /images/service-concrete-demolition-1200w.webp 1200w, /images/service-concrete-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
